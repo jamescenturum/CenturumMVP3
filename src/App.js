@@ -79,7 +79,7 @@ function App() {
             </TabPanel>
             <TabPanel>
 							<p style={{ background: 'lightblue', color: 'blue' }}>
-              <center><iframe title="weather" width="95%" height="840" src="https://embed.windy.com/embed2.html?lat=40.725&lon=-73.944&detailLat=40.725&detailLon=-73.944&width=650&height=450&zoom=5&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe></center>
+              <center><iframe title="weather" width="95%" height="850" src="https://embed.windy.com/embed2.html?lat=40.725&lon=-73.944&detailLat=40.725&detailLon=-73.944&width=650&height=450&zoom=5&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe></center>
               </p>
             </TabPanel>
 					</Tabs>
