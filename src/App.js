@@ -3,6 +3,9 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import CenturumLogo from './CenturumLogo.png';
 import CenturumContactUs from './CenturumContactUs.png';
+import MVP from './MVP.png';
+import SoftwareDev from './SoftwareDev.png';
+
 
 function App() {
 	return (
@@ -23,12 +26,26 @@ function App() {
 					margin: '20px' }}>
 					<Tabs defaultIndex={1}>
 						<TabList>
-							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>Pipeline</Tab>
+							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>Software Development</Tab>
+							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>DevSecOps Pipeline</Tab>
+							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>MVP</Tab>
 							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>Contact Us</Tab>
 						</TabList>
 						<TabPanel>
 							<p style={{ background: '#3399FF' }}>
-              				<center><img height="800" width="1000" src={CenturumLogo} alt="Centurum" /></center>
+							<br></br>
+              				<center><img height="790" width="30%" src={SoftwareDev} alt="Centurum" /></center>
+							<br></br>
+							</p>
+						</TabPanel>
+						<TabPanel>
+							<p style={{ background: '#3399FF' }}>
+              				<center><img height="800" width="75%" src={CenturumLogo} alt="Centurum" /></center>
+							</p>
+						</TabPanel>
+						<TabPanel>
+							<p style={{ background: '#3399FF' }}>
+              				<center><img height="800" width="80%" src={MVP} alt="Centurum" /></center>
 							</p>
 						</TabPanel>
 						<TabPanel>
