@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {"type": "Feature","properties": {"ID": 1,"HOME_PORT": "Apra Harbor, GU"},
+        "geometry": {"type": "Point","coordinates": [144.645146, 13.455407]}},
+
+    {"type": "Feature","properties": {"ID": 2,"HOME_PORT": "Bangor, WA"},
+        "geometry": {"type": "Point","coordinates": [-122.74599, 47.720927]}},
+
+
+        {"type": "Feature","properties": {"ID": 1,"Citie": "Anniston","State":"AL"},
+         "geometry": {"type": "Point","coordinates": [  33.58, 85.85]}},
+        
+  
+    {"type": "Feature", "properties": { "ID": 3,"HOME_PORT": "Bremerton, WA"},
+        "geometry": { "type": "Point", "coordinates": [-122.6329356, 47.5673202]}},
+    
+    {"type": "Feature", "properties": { "ID": 4,"HOME_PORT": "Everett, WA"},
+        "geometry": { "type": "Point", "coordinates": [-122.2020794, 47.9789848]}},
+
+    {"type": "Feature", "properties": { "ID": 5,"HOME_PORT": "Gaeta, Italy"},
+        "geometry": { "type": "Point", "coordinates": [41.2107, 13.5714]}},
+
+    {"type": "Feature", "properties": { "ID": 6,"HOME_PORT": "Groton, CT"},
+        "geometry": { "type": "Point", "coordinates": [-72.07907169999999, 41.3497456]}},
+
+    {"type": "Feature", "properties": { "ID": 7,"HOME_PORT": "Kings Bay, GA"},
+        "geometry": { "type": "Point", "coordinates": [-81.5623849, 30.801543]}},
+
+    {"type": "Feature", "properties": { "ID": 8,"HOME_PORT": "Little Creek, VA"},
+        "geometry": { "type": "Point", "coordinates": [-76.195756, 36.922758]}},
+        
+    {"type": "Feature", "properties": { "ID": 9,"HOME_PORT": "Manama, Bahrain"},
+        "geometry": { "type": "Point", "coordinates": [50.583333, 26.216667]}},
+
+
+    {"type": "Feature", "properties": { "ID": 10,"HOME_PORT": "Mayport, FL"},
+        "geometry": { "type": "Point", "coordinates": [-81.40827, 30.388146]}},
+
+    {"type": "Feature", "properties": { "ID": 11,"HOME_PORT": "Norfolk, VA"},
+        "geometry": { "type": "Point", "coordinates": [-76.31334, 36.944999]}},
+
+    {"type": "Feature", "properties": { "ID": 12,"HOME_PORT": "Pear Harbor, HI"},
+        "geometry": { "type": "Point", "coordinates": [-157.944023, 21.348693]}},
+
+    
+    {"type": "Feature", "properties": { "ID": 13,"HOME_PORT": "Rota, Spain"},
+        "geometry": { "type": "Point", "coordinates": [-6.360144, 36.623687]}},
+
+    {"type": "Feature", "properties": { "ID": 14,"HOME_PORT": "Saipan, Japan"},
+        "geometry": { "type": "Point", "coordinates": [145.74743, 15.14995]}},
+
+    {"type": "Feature", "properties": { "ID": 15,"HOME_PORT": "San Diego, CA"},
+        "geometry": { "type": "Point", "coordinates": [-117.173069, 32.714134]}}, 41.33,124.28
+
+    {"type": "Feature", "properties": { "ID": 16,"HOME_PORT": "Sasebo, Japan"},
+        "geometry": { "type": "Point", "coordinates": [129.785644, 33.082499]}},
+
+    {"type": "Feature", "properties": { "ID": 17,"HOME_PORT": "Yokosuka, Japan"},
+        "geometry": { "type": "Point", "coordinates": [139.672166, 35.281498]}}
+
+    ]
+}

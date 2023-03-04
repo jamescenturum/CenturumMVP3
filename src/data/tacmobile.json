@@ -1,0 +1,361 @@
+{
+  "features": [
+    {
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 100,
+        "SITE_NAME": "TOC Sigonella",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Sigonella",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.409531, 14.909724]
+      }
+    },
+    { 
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 102,
+        "SITE_NAME": "TOC Bahrain",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Bahrain",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.993654, 50.570583]
+      }
+    },
+    { 
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 103,
+        "SITE_NAME": "TOC Kadena",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Kadena",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.038986, 36.176151]
+      }
+    },  
+    { 
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 104,
+        "SITE_NAME": "TOC Misawa",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Misawa",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.365311, 40.680031]
+      }
+    },  
+    { 
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 105,
+        "SITE_NAME": "TOC Kaneohe Bay",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Kaneohe Bay",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-157.747726, 21.447929]
+      }
+    },
+    { 
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 106,
+        "SITE_NAME": "TOC Jacksonville", 
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Jackonsville",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.655647, 30.332184]
+      }
+    },  
+    { 
+      "type": "TOC",
+      "properties": {
+        "SITE_ID": 107,
+        "SITE_NAME": "TOC Whidbey Island",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Tactical Operations Center (TOC) Whidbey Island",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.669270, 48.335050]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 108,
+        "SITE_NAME": "MTOC ONE",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) ONE",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 109,
+        "SITE_NAME": "MTOC TWO",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) TWO",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 110,
+        "SITE_NAME": "MTOC THREE",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) THREE",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 111,
+        "SITE_NAME": "MTOC FOUR",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) FOUR",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 112,
+        "SITE_NAME": "MTOC FIVE",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) FIVE",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 113,
+        "SITE_NAME": "MTOC SIX",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) SIX",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 114,
+        "SITE_NAME": "MTOC SEVEN",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) SEVEN",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 115,
+        "SITE_NAME": "MTOC EIGHT",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) EIGHT",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 116,
+        "SITE_NAME": "MTOC NINE",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) NINE",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 117,
+        "SITE_NAME": "MTOC TEN",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) TEN",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 118,
+        "SITE_NAME": "MTOC ELEVEN",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) ELEVEN",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 119,
+        "SITE_NAME": "MTOC TWELVE",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Mobile Tactical Operations Center (MTOC) TWELVE",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "FeatMTOCure",
+      "properties": {
+        "SITE_ID": 120,
+        "SITE_NAME": "MTOC THIRTY",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Australian RAAF THIRTY ",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 121,
+        "SITE_NAME": "MTOC THIRTY ONE",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Australian RAAF THIRTY ONE",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "MTOC",
+      "properties": {
+        "SITE_ID": 122,
+        "SITE_NAME": "MTOC THIRTY TWO",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "Australian RAAF THIRTY TWO",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },
+    { 
+      "type": "Schoolhouse",
+      "properties": {
+        "SITE_ID": 123,
+        "SITE_NAME": "TacMobile Schoolhouse",
+        "SITE_ADDRESS": "8720 Russell Road",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": "2020/06/05",
+        "DESCRIPTION": "TacMobile Schoolhouse",
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    }
+  ]
+}

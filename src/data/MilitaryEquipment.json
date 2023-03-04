@@ -1,0 +1,85 @@
+{
+  "Military Vehicles": [
+    {
+      "type": "Vehicle",
+      "properties": {
+        "ID": 100,
+        "Name": "HUMVEE",
+        "PartType1": "Tire",
+        "PartType2": "Gun",
+        "PartType3": "Radio",
+        "SITE_NAME": "Site HUMVEE",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_D": "2020/06/05",
+        "DESCRIPTION": "HUMVEE Vehicle",
+        "Timestamp": "06 JUL 2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.409531, 14.909724]
+      }
+    },
+    {
+      "type": "Vehicle",
+      "properties": {
+        "ID": 101,
+        "NAME": "M113",
+        "PartType1": "Tire",
+        "PartType2": "Gun",
+        "PartType3": "Radio",
+        "SITE_NAME": "Site M1113",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_D": "2020/06/05",
+        "DESCRIPTION": "TM113 Vehicle",
+        "Timestamp": "06/08/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.409531, 15.909724]
+      }
+
+    },
+    {
+      "type": "Vehicle",
+      "properties": {
+        "ID": 101,
+        "NAME": "M114",
+        "PartType1": "Tire",
+        "PartType2": "Gun",
+        "PartType3": "Radio",
+        "SITE_NAME": "Site M1114",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_D": "2020/06/05",
+        "DESCRIPTION": "TM114 Vehicle",
+        "Timestamp": "06/09/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.409531, 16.909724]
+      }
+
+    },
+    {
+      "type": "Vehicle",
+      "properties": {
+        "ID": 101,
+        "NAME": "M1117",
+        "PartType1": "Tire",
+        "PartType2": "Gun",
+        "PartType3": "Radio",
+        "SITE_NAME": "Site M1117",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_D": "2020/06/05",
+        "DESCRIPTION": "M117 Vehicle",
+        "Timestamp": "06/10/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.409531, 17.909724]
+      }
+
+    }
+  
+  
+  ]
+}

@@ -90,8 +90,8 @@ function App() {
 						</TabPanel>
            				 <TabPanel>
 							<p style={{ background: 'lightblue', color: 'blue' }}>
-             				<center><iframe title="cities" src="https://centurum.kb.us-central1.gcp.cloud.es.io:9243/goto/29d3f750-ac93-11ec-8577-6f27a4313857" height="600" width="100%"></iframe></center>;
-              				</p>
+							<iframe title="Cities" src="https://www.google.com/maps/d/embed?mid=1pqYjpATg2XASbfh77pT-iVaiWEFbzyA&ehbc=2E312F" width="95%" height="850"></iframe>
+							</p>
             			</TabPanel>
             			<TabPanel>
 							<p style={{ background: 'lightblue', color: 'blue' }}>

@@ -1,0 +1,14 @@
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [125.6, 10.1]
+    },
+    "properties": {
+      "first": "Dinagat Islands",
+      "last": "Dinagat Islands",
+      "address": "1002 tridant street",
+      "city": "hanahan",
+      "zipcode": "29410"
+    }
+}

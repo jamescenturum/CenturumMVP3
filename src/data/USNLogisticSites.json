@@ -1,0 +1,464 @@
+{
+  "features": [
+    {
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 101,
+        "SITE_NAME": "Site 101",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 0,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 500,
+        "Gun_Qnt": 50,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.409531, 14.909724]
+      }
+    },
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 102,
+        "SITE_NAME": "Site 102",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 0,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 100,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.993654, 50.570583]
+      }
+    },
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 103,
+        "SITE_NAME": "San Diego",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 0,
+        "Ammunition_Qnt": 1500,
+        "Gun_Qnt": 150,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.038986, 36.176151]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 104,
+        "SITE_NAME": "Site 104",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 0,
+        "Gun_Qnt": 200,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141.365311, 40.680031]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 105,
+        "SITE_NAME": "Site 105",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 2000,
+        "Gun_Qnt": 0,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-157.747726, 21.447929]
+      }
+    },
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 106,
+        "SITE_NAME": "Site 106", 
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 5,
+        "Antena_Qnt": 10,
+        "C4ISR_System_Qnt": 20,
+        "Ammunition_Qnt": 2500,
+        "Gun_Qnt": 250,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.655647, 30.332184]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 107,
+        "SITE_NAME": "Site 107",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 2100,
+        "Gun_Qnt": 300,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.669270, 48.335050]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 108,
+        "SITE_NAME": "Site 108",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 3000,
+        "Gun_Qnt": 350,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 109,
+        "SITE_NAME": "Site 109",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 4000,
+        "Gun_Qnt": 400,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 110,
+        "SITE_NAME": "Site 110",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 800,
+        "Gun_Qnt": 450,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 111,
+        "SITE_NAME": "Site 111",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 500,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 112,
+        "SITE_NAME": "Site 112",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 550,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 113,
+        "SITE_NAME": "Site 113",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 600,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 114,
+        "SITE_NAME": "MSite 114",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 650,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 115,
+        "SITE_NAME": "Site 115",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 700,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "LOGSITE",
+      "properties": {
+        "SITE_ID": 116,
+        "SITE_NAME": "Site 116",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 750,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },  
+    { 
+      "type": "DEPO",
+      "properties": {
+        "SITE_ID": 117,
+        "SITE_NAME": "Site 117",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 800,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "DEPO",
+      "properties": {
+        "SITE_ID": 118,
+        "SITE_NAME": "Site 118",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 850,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "DEPO",
+      "properties": {
+        "SITE_ID": 119,
+        "SITE_NAME": "Site 119",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 900,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "DEPO",
+      "properties": {
+        "SITE_ID": 120,
+        "SITE_NAME": "Site 120",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 950,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "DEPO",
+      "properties": {
+        "SITE_ID": 121,
+        "SITE_NAME": "Site 121",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 1000,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    },  
+    { 
+      "type": "DEPOC",
+      "properties": {
+        "SITE_ID": 122,
+        "SITE_NAME": "Site 122",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 1100,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.3322, 81.6557]
+      }
+    },
+    { 
+      "type": "DEPO",
+      "properties": {
+        "SITE_ID": 123,
+        "SITE_NAME": "Site 123",
+        "CREATED_D": "2018/01/18",
+        "MODIFIED_DA": "2020/06/05",
+        "DESCRIPTION": "USN Equipment Depot",
+        "Radio_Qnt": 2,
+        "Antena_Qnt": 5,
+        "C4ISR_System_Qnt": 8,
+        "Ammunition_Qnt": 1000,
+        "Gun_Qnt": 1150,
+        "Timestamp": "06/06/2020 12:18:19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3372987731628, 45.383321536272049]
+      }
+    }
+  ]
+}

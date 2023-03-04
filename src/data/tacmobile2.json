@@ -1,0 +1,150 @@
+{
+	"features": 
+	[
+	  {
+		"type": "TOC",
+		"properties": {
+		  "SITE ID": 107,
+		  "SITE NAME": "TOC Whidbey Island",
+		  "MODIFIED DATE": "2018/01/18",
+		  "CREATED DATE": "2020/06/05",
+		  "DESCRIPTION": "Tactical Operations Center (TOC) Whidbey Island",
+		  "Timestamp": "06/06/2020 12:18:19"
+		},
+		"geometry": {
+		"type": "linestring",
+		"coordinates" : [[-122.669270, 48.335050], [-157.747726, 21.447929]]
+					}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			"SITE ID": 106,
+			"SITE NAME": "TOC Jacksonville",
+			"MODIFIED DATE": "2018/01/18",
+			"CREATED DATE": "2020/06/05",
+			"DESCRIPTION": "Tactical Operations Center (TOC) Jackonsville",
+			"Timestamp": "06/06/2020 12:18:19"
+			},
+			"geometry": {
+			"type": "linestring",
+			"coordinates" : [[-81.655647, 30.332184], [-63.457031, 23.563987], [-42.868652, 29.857319]]
+			}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			  "SITE ID": 100,
+			  "SITE NAME": "JAX Mission",
+			  "MODIFIED DATE": "2018/01/18",
+			  "CREATED DATE": "2020/06/05",
+			  "DESCRIPTION": "Flight #28475: Tracking submarines in the Atlantic",
+			  "Timestamp": "06/06/2020 12:18:19",
+			  "ELNOT A" : "JAX-NBMZ1",
+			  "ELNOT B" : "JAX-NBMZ2",
+			  "ELNOT C" : "JAX-NBMZ3"
+			},
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [-81.655647, 30.332184]
+			}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			  "SITE ID": 100,
+			  "SITE NAME": "JAX Mission",
+			  "MODIFIED DATE": "2018/01/18",
+			  "CREATED DATE": "2020/06/05",
+			  "DESCRIPTION": "Flight #28475: Tracking submarines in the Atlantic",
+			  "Timestamp": "06/06/2020 12:18:19",
+			  "MISSION POINT": "1",
+			  "ELNOT A" : "JAX-NBMZ1",
+			  "ELNOT B" : "JAX-NBMZ2",
+			  "ELNOT C" : "JAX-NBMZ3"
+			},
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [-63.457031, 23.563987]
+			}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			  "SITE ID": 100,
+			  "SITE NAME": "JAX Mission",
+			  "MODIFIED DATE": "2018/01/18",
+			  "CREATED DATE": "2020/06/05",
+			  "DESCRIPTION": "Flight #28475: Tracking submarines in the Atlantic",
+			  "Timestamp": "06/06/2020 12:18:19",
+			  "MISSION POINT": "2",
+			  "ELNOT A" : "JAX-NBMZ1",
+			  "ELNOT B" : "JAX-NBMZ2",
+			  "ELNOT C" : "JAX-NBMZ3"
+			},
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [-81.655647, 30.332184]
+			}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			  "SITE ID": 100,
+			  "SITE NAME": "JAX Mission",
+			  "MODIFIED DATE": "2018/01/18",
+			  "CREATED DATE": "2020/06/05",
+			  "DESCRIPTION": "Flight #28475: Tracking submarines in the Atlantic",
+			  "Timestamp": "06/06/2020 12:18:19",
+			  "MISSION POINT": "3",
+			  "ELNOT A" : "JAX-NBMZ1",
+			  "ELNOT B" : "JAX-NBMZ2",
+			  "ELNOT C" : "JAX-NBMZ3"
+			},
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [-42.868652, 29.857319]
+			}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			  "SITE ID": 100,
+			  "SITE NAME": "WHIDBEY MISSION",
+			  "MODIFIED_D": "2018/01/18",
+			  "CREATED_DA": "2020/06/05",
+			  "DESCRIPTION": "Flight #28476: Tracking submarines in the Pacific",
+			  "Timestamp": "06/06/2020 12:18:19",
+			  "MISSION POINT": "1",
+			  "ELNOT A" : "WBI-NBMZ1",
+			  "ELNOT B" : "WBI-NBMZ2",
+			  "ELNOT C" : "WBI-NBMZ3"
+			},
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [-122.669270, 48.335050]
+			}
+		},
+		{
+			"type": "TOC",
+			"properties": {
+			  "SITE ID": 100,
+			  "SITE NAME": "WHIDBEY MISSION",
+			  "MODIFIED_D": "2018/01/18",
+			  "CREATED_DA": "2020/06/05",
+			  "DESCRIPTION": "Flight #28476: Tracking submarines in the Pacific",
+			  "Timestamp": "06/06/2020 12:18:19",
+			  "MISSION POINT": "2",
+			  "ELNOT A" : "WBI-NBMZ1",
+			  "ELNOT B" : "WBI-NBMZ2",
+			  "ELNOT C" : "WBI-NBMZ3"
+			},
+			"geometry": {
+			  "type": "Point",
+			  "coordinates": [-157.747726, 21.447929]
+			}
+		}
+		
+
+	]
+}
