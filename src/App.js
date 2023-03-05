@@ -24,7 +24,7 @@ function App() {
 				</TabList>
 				<TabPanel style={{ fontSize: '20px',
 					margin: '20px' }}>
-					<Tabs defaultIndex={1}>
+					<Tabs defaultIndex={0}>
 						<TabList>
 							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>Software Development</Tab>
 							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '5px' }}>DevSecOps Pipeline</Tab>
@@ -63,7 +63,7 @@ function App() {
 				</TabPanel>
 				<TabPanel style={{ fontSize: '20px',
 					margin: '20px' }}>
-					<Tabs>
+					<Tabs defaultIndex={0}>
 						<TabList>
 							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '05px'}}>FAA</Tab>
 							<Tab style={{ background: 'Gainsboro', width: '200px', borderRadius: '05px'}}>AIS</Tab>
