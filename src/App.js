@@ -90,7 +90,7 @@ function App() {
 						</TabPanel>
            				 <TabPanel>
 							<p style={{ background: 'lightblue', color: 'blue' }}>
-							<iframe title="Cities" src="https://www.google.com/maps/d/embed?mid=1pqYjpATg2XASbfh77pT-iVaiWEFbzyA&ehbc=2E312F" width="95%" height="850"></iframe>
+							<center><iframe title="USCities" width="95%" height="850" id="apiproxy045273da13395b4fdfb2a1f4c5a54c2b57da0adc0.2541314" name="apiproxy045273da13395b4fdfb2a1f4c5a54c2b57da0adc0.2541314" src="https://clients6.google.com/static/proxy.html?usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.Oupypiulh58.O%2Fd%3D1%2Frs%3DAHpOoo_CVmSAWqMsGCHgMRyaSvlE8hY6sw%2Fm%3D__features__#parent=https%3A%2F%2Fearth.google.com&amp;rpctoken=333771177" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px; display: none;"></iframe></center>
 							</p>
             			</TabPanel>
             			<TabPanel>
